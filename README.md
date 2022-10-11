@@ -11,7 +11,7 @@ guark init --template react --mod github.com/username/appname
 
 ## Run dev app.
 
-Run dev app with vue hot reload:
+Run dev app with react hot reload:
 ```bash
 guark run
 ```
