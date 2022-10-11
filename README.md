@@ -1,4 +1,4 @@
-create index.d.ts ( ui/node_modules/guark/index.d.ts )
+create index.d.ts ( ui / node_modules / guark / index.d.ts )
 
     declare namespace Guark {
 
